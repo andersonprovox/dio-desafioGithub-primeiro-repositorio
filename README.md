@@ -1,2 +1,4 @@
 # dio-desafioGithub-primeiro-repositorio
-DEsafio de projeto sobre git e Github
+Desafio de projeto sobre git e Github criado para atender os critérios de aceite do projeto dentro da plataforma para o bootcamp da Spread.
+
+
